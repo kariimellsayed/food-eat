@@ -12,6 +12,8 @@ Foodie Page is a project built with **React** and **Tailwind CSS** to create a m
 
 ## Installation and Running the Project
 
+[Demo](https://food-eatt.vercel.app/)
+
 ### 1. Install Dependencies
 
 Run the following command in the project directory to install necessary packages:
